@@ -74,6 +74,28 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "nGVMy_7Zx",
+      "uuid": "3c3bfc68-0025-4270-8444-e4c79a36486e",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$glquerx4AzfBvodf8KXe/uIfa5P7eXY/bXKK2n8HO3uzUrKuRDeT6",
+      "balance": 0,
+      "createdAt": "2025-02-11T07:10:01.869Z",
+      "modifiedAt": "2025-02-11T07:10:01.869Z"
+    },
+    {
+      "id": "WKt_Iu2v5",
+      "uuid": "073f49f1-2bed-4092-9977-a7ff17aaefbe",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$cyaoxY8m5Ac3lhSgOnIDyekPLHYAUyAcJDV2xNz/XBU7ju8x0/XJe",
+      "balance": 0,
+      "createdAt": "2025-02-11T07:11:11.223Z",
+      "modifiedAt": "2025-02-11T07:11:11.223Z"
     }
   ],
   "contacts": [
