@@ -76,26 +76,169 @@
       "modifiedAt": "2024-03-07T00:07:36.510Z"
     },
     {
-      "id": "nGVMy_7Zx",
-      "uuid": "3c3bfc68-0025-4270-8444-e4c79a36486e",
+      "id": "EReq49xwO",
+      "uuid": "bd07774d-0f4f-477b-b222-2ab3b425193a",
       "firstName": "Joana",
       "lastName": "Santos",
       "username": "joanasantos",
-      "password": "$2a$10$glquerx4AzfBvodf8KXe/uIfa5P7eXY/bXKK2n8HO3uzUrKuRDeT6",
+      "password": "$2a$10$2cQmcmpNd7vqgq7846LPruDv2p7YRSMoGmCCEEZJFI4I2zBmEoCUi",
       "balance": 0,
-      "createdAt": "2025-02-11T07:10:01.869Z",
-      "modifiedAt": "2025-02-11T07:10:01.869Z"
+      "createdAt": "2025-02-11T21:29:00.712Z",
+      "modifiedAt": "2025-02-11T21:29:00.712Z"
     },
     {
-      "id": "WKt_Iu2v5",
-      "uuid": "073f49f1-2bed-4092-9977-a7ff17aaefbe",
+      "id": "u888-jeC5",
+      "uuid": "a57c86c2-d6ec-4046-9b94-b17089ced3a4",
       "firstName": "Joana",
       "lastName": "Santos",
       "username": "joanasantos",
-      "password": "$2a$10$cyaoxY8m5Ac3lhSgOnIDyekPLHYAUyAcJDV2xNz/XBU7ju8x0/XJe",
+      "password": "$2a$10$UXHTmgUYyqd81vPiCUrFTOI6ISGoZTp9MnIUuYaXWPV.5dJFPX18.",
       "balance": 0,
-      "createdAt": "2025-02-11T07:11:11.223Z",
-      "modifiedAt": "2025-02-11T07:11:11.223Z"
+      "createdAt": "2025-02-11T21:30:18.307Z",
+      "modifiedAt": "2025-02-11T21:30:18.307Z"
+    },
+    {
+      "id": "WpSgWbg1M",
+      "uuid": "eaf8dcda-de98-45f2-ad3f-94e9aefb3797",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$OhTHKLb7E8yorN14yqyLmeUdTgVt8WLCEyVLlOgNWmhxc1FZWA0Pm",
+      "balance": 0,
+      "createdAt": "2025-02-11T21:30:36.901Z",
+      "modifiedAt": "2025-02-11T21:30:36.901Z"
+    },
+    {
+      "id": "DGtZhSWi5",
+      "uuid": "38a5c2cd-9cb9-4b7a-b11e-4266c43d70b1",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$14370.M6y/VIXdvj/7I5W.tVHquMZd2rYdCj/Xh5iGXY7IGo39Ivq",
+      "balance": 0,
+      "createdAt": "2025-02-11T21:31:30.081Z",
+      "modifiedAt": "2025-02-11T21:31:30.081Z"
+    },
+    {
+      "id": "4UtAbKOnD",
+      "uuid": "34b1dee2-a71a-494d-b4e1-a4b1f277ced8",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$xifxOz8diTUbV9D18jLtA.F7VFpuuXl94VNAsZ0GZZX0LT.dW7/2i",
+      "balance": 0,
+      "createdAt": "2025-02-11T21:31:41.957Z",
+      "modifiedAt": "2025-02-11T21:31:41.957Z"
+    },
+    {
+      "id": "VWE9uQ2rE",
+      "uuid": "50723c3d-7061-4645-891b-46d09bee9d42",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$mt61bvxtaZRB7QHmy7SxKeCwrvJoZQWPiRcHjkiSufSg49kwU2zC.",
+      "balance": 0,
+      "createdAt": "2025-02-11T21:32:00.557Z",
+      "modifiedAt": "2025-02-11T21:32:00.557Z"
+    },
+    {
+      "id": "9G45sIhGU",
+      "uuid": "154439f6-c798-47ae-bfac-914d424ba677",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$iON/n1Mw.iB7hMqNH35GpOTqM9vkKk0a1WI6HFqvSCv.elgx7LJLe",
+      "balance": 0,
+      "createdAt": "2025-02-11T21:32:27.156Z",
+      "modifiedAt": "2025-02-11T21:32:27.156Z"
+    },
+    {
+      "id": "-C9Zud04N",
+      "uuid": "a6a11c95-fd6e-4b02-8855-da9d6b71619e",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$VozmKe8UVIyLny02L0dLROGj.GbPU1pSaDgYBslGbXmIOAXhywxhy",
+      "balance": 0,
+      "createdAt": "2025-02-11T21:33:07.619Z",
+      "modifiedAt": "2025-02-11T21:33:07.619Z"
+    },
+    {
+      "id": "OO2cjdyFL",
+      "uuid": "82dcee8a-1993-421a-9dea-9a2dbef24e8f",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$O5v4iaXXXZFAdKpp41i2GuBsXHWCn8WsJoSQX8t9UmxscNZxxh6IG",
+      "balance": 0,
+      "createdAt": "2025-02-11T22:14:12.281Z",
+      "modifiedAt": "2025-02-11T22:14:12.281Z"
+    },
+    {
+      "id": "zxSSjBP7T",
+      "uuid": "ba2cb742-6433-4106-b8ef-3d16a8250bc9",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$.KZ/1CcwkpIIESnA/ggdYu6rxiLgLH0OXg1w.6gYxIXuKatXYixfS",
+      "balance": 0,
+      "createdAt": "2025-02-11T22:15:08.520Z",
+      "modifiedAt": "2025-02-11T22:15:08.520Z"
+    },
+    {
+      "id": "StO6kVmca",
+      "uuid": "4f06b566-c043-466d-8d05-ddb66e2072ed",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$X.p04DcSyXkjGAf6XYt6kuUrqhckNAPsK2mXXRcBHRBuRCKZ2yGmK",
+      "balance": 0,
+      "createdAt": "2025-02-11T22:16:07.317Z",
+      "modifiedAt": "2025-02-11T22:16:07.317Z"
+    },
+    {
+      "id": "3VzI-RUfO",
+      "uuid": "404008a0-b7d0-4925-b052-2a1f4108985d",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$nniWOS354S7kdViDzMaoRuk8AwyPvDPsVlUcS2/hGGyJTlj0EAq4C",
+      "balance": 0,
+      "createdAt": "2025-02-11T22:16:59.994Z",
+      "modifiedAt": "2025-02-11T22:16:59.994Z"
+    },
+    {
+      "id": "H29KrZsdI",
+      "uuid": "b970a33c-bb8c-4b1d-b926-f0564c67b708",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$SJNj7E2J8iBtuuLG0EOzp.LDzQ7WdG1mddLbSRm9E9R.cra2/ZdhC",
+      "balance": 0,
+      "createdAt": "2025-02-11T22:17:11.760Z",
+      "modifiedAt": "2025-02-11T22:17:11.760Z"
+    },
+    {
+      "id": "PSsMAt-qS",
+      "uuid": "69b4ade1-be2e-4271-b794-51e63a74ed24",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$hnufUGGThNNAQHHPKKy.TOrtmIwsEY6KaqAh3HRoOAdPw2yr8lV9K",
+      "balance": 0,
+      "createdAt": "2025-02-11T22:17:57.774Z",
+      "modifiedAt": "2025-02-11T22:17:57.774Z"
+    },
+    {
+      "id": "bOLJnNuSs",
+      "uuid": "52474556-020e-4285-83d2-a4f9ccf05c15",
+      "firstName": "Joana",
+      "lastName": "Santos",
+      "username": "joanasantos",
+      "password": "$2a$10$gVjLK7aGrsw7fmIpL6k.GeCe8flVJkBS67HWyaNHZIxJJlI18rZqm",
+      "balance": 0,
+      "createdAt": "2025-02-11T22:18:31.902Z",
+      "modifiedAt": "2025-02-11T22:18:31.902Z"
     }
   ],
   "contacts": [
