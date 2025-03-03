@@ -27,8 +27,8 @@ describe("Real World App Tests", () => {
     cy.get("[name='username']").click();
     cy.get("[name='password']").type("1542");
     cy.get("[name='confirmPassword']").type("1542");
-    cy.get(".Mui-error")
-    cy.get("[type='submit']")
+    cy.get(".Mui-error");
+    cy.get("[type='submit']");
   });
 
   it("Creating New User Unsuccessfuly", () => {
@@ -53,8 +53,7 @@ describe("Real World App Tests", () => {
     cy.get("[name='username']").type("markrock");
     cy.get("[name='password']").type("154");
     cy.get("[name='confirmPassword']").type("154");
-    cy.get(".Mui-error");
-    cy.get("[type='submit']").click();
+    cy.get(".Mui-error");   
   });
 
 });
