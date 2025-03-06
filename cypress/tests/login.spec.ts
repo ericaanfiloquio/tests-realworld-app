@@ -1,17 +1,26 @@
-describe("Real World App Tests", () => {
-  it("Login Success", () => {
+describe("Login Success", () => {
+
+  const selectorsList = {
+    usernameField: "[name='username']",
+    passwordField: "[name='password']",
+    loginButton: '[data-test="signin-submit"]',
+    mainPage: "[data-test='main']",
+    wrongCredentialAlert: "[role='alert']",
+  }
+
+  it("Be able to login successfuly", () => {
     cy.visit("http://localhost:3000/signin");
-    cy.get("[name='username']").type("Heath93");
-    cy.get("[name='password']").type("s3cret");
-    cy.get('[data-test="signin-submit"]').click();
-    cy.get(".css-1idn90j-MuiGrid-root");
+    cy.get(selectorsList.usernameField).type("Heath93");
+    cy.get(selectorsList.passwordField).type("s3cret");
+    cy.get(selectorsList.loginButton).click();
+    cy.get(selectorsList.mainPage);
   });
 
-  it("Login Fail", () => {
+  it("Login with invalid credentials", () => {
     cy.visit("http://localhost:3000/signin");
-    cy.get("[name='username']").type("Romeu");
-    cy.get("[name='password']").type("s3cret");
-    cy.get('[data-test="signin-submit"]').click();
-    cy.get('[data-test="signin-error"]');
+    cy.get(selectorsList.usernameField).type("Romeu");
+    cy.get(selectorsList.passwordField).type("s3cret");
+    cy.get(selectorsList.loginButton).click();
+    cy.get(selectorsList.wrongCredentialAlert);
   });
 });

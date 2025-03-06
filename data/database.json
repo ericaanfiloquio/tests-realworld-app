@@ -11,7 +11,7 @@
       "phoneNumber": "398-225-9900",
       "avatar": "https://avatars.dicebear.com/api/human/uBmeaz5pX.svg",
       "defaultPrivacyLevel": "public",
-      "balance": 140953,
+      "balance": 150953,
       "createdAt": "2023-03-09T22:26:40.101Z",
       "modifiedAt": "2024-03-07T10:07:57.580Z"
     },
@@ -26,7 +26,7 @@
       "phoneNumber": "410-786-2112",
       "avatar": "https://avatars.dicebear.com/api/human/GjWovtg2hr.svg",
       "defaultPrivacyLevel": "private",
-      "balance": 103026,
+      "balance": 93026,
       "createdAt": "2023-04-23T13:52:10.979Z",
       "modifiedAt": "2024-03-07T09:07:46.709Z"
     },
@@ -74,61 +74,6 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
-    },
-    {
-      "id": "k-ZjvZZMw",
-      "uuid": "b7a0a738-1d14-45b6-a6df-740ce75441ba",
-      "firstName": "Joana",
-      "lastName": "Santos",
-      "username": "joanasantos",
-      "password": "$2a$10$SO797wDsoABFUNV8OMnqXO6Vts5mI4FFVd.J0gHQQ0mIgkKQWoGe6",
-      "balance": 0,
-      "createdAt": "2025-03-03T21:59:32.738Z",
-      "modifiedAt": "2025-03-03T21:59:32.738Z"
-    },
-    {
-      "id": "W4WSlK8D2",
-      "uuid": "d9b6c856-00e8-4a2e-af65-338fc3da42b5",
-      "firstName": "Joana",
-      "lastName": "Santos",
-      "username": "joanasantos",
-      "password": "$2a$10$wDuPSikhGXWBcGqtzwrPQ.yNQj74jHBdfVjpQHLJ7WXTU5w5vLdp.",
-      "balance": 0,
-      "createdAt": "2025-03-03T21:59:54.065Z",
-      "modifiedAt": "2025-03-03T21:59:54.065Z"
-    },
-    {
-      "id": "1pgKWAXf4",
-      "uuid": "92030384-df93-443d-a232-86abcc2eb9be",
-      "firstName": "Erica",
-      "lastName": "Santos",
-      "username": "joanasantos",
-      "password": "$2a$10$1iufpqQI4oEyMmqBeIBTX.5i5YiyHEThrKtYifeLJXs8Lq6Nwsm.W",
-      "balance": 0,
-      "createdAt": "2025-03-03T22:00:19.009Z",
-      "modifiedAt": "2025-03-03T22:00:19.009Z"
-    },
-    {
-      "id": "4uY8-RO0l",
-      "uuid": "322cc369-561d-44be-94c6-bb74cdb68dfb",
-      "firstName": "Erica",
-      "lastName": "Santos",
-      "username": "jovemsantos",
-      "password": "$2a$10$pgaqD4daWTFnBR/wKoWSbuGGdCr/FPWzBwDgG45Rw25wlOT1Rt4Pa",
-      "balance": 0,
-      "createdAt": "2025-03-03T22:00:37.944Z",
-      "modifiedAt": "2025-03-03T22:00:37.944Z"
-    },
-    {
-      "id": "OdcGxCu1a",
-      "uuid": "a277fd7d-aa9d-4af6-a320-95da0d8578f3",
-      "firstName": "Erica",
-      "lastName": "Santos",
-      "username": "jovemsantos",
-      "password": "$2a$10$zCj03DWOisi/W4trCrV4guWtqlT0AAMcxSKFiV7JRnAd7nUPHqzNy",
-      "balance": 0,
-      "createdAt": "2025-03-03T22:00:49.587Z",
-      "modifiedAt": "2025-03-03T22:00:49.587Z"
     }
   ],
   "contacts": [
@@ -272,7 +217,7 @@
       "bankName": "D'Amore Inc Bank",
       "accountNumber": "5785581121",
       "routingNumber": "501852312",
-      "isDeleted": false,
+      "isDeleted": true,
       "createdAt": "2023-04-03T08:50:04.983Z",
       "modifiedAt": "2024-03-07T11:35:16.676Z"
     },
@@ -308,6 +253,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "jakjurw0j",
+      "uuid": "052f87eb-b140-431b-ad2b-3a5bf817988d",
+      "userId": "GjWovtg2hr",
+      "bankName": "Nubank",
+      "accountNumber": "987654321",
+      "routingNumber": "123456789",
+      "isDeleted": false,
+      "createdAt": "2025-03-06T15:33:54.411Z",
+      "modifiedAt": "2025-03-06T15:33:54.411Z"
     }
   ],
   "transactions": [
@@ -9910,42 +9866,6 @@
       "requestResolvedAt": "",
       "createdAt": "2023-11-10T07:15:28.127Z",
       "modifiedAt": "2024-03-07T21:58:09.668Z"
-    },
-    {
-      "id": "NziwWFEtu",
-      "uuid": "8d8d5f0b-dcf1-4d0b-9d65-095bba2d1a54",
-      "amount": 10000,
-      "description": "Money to Kristian",
-      "receiverId": "GjWovtg2hr",
-      "senderId": "uBmeaz5pX",
-      "privacyLevel": "public",
-      "status": "complete",
-      "createdAt": "2025-03-03T21:28:04.117Z",
-      "modifiedAt": "2025-03-03T21:28:04.117Z"
-    },
-    {
-      "id": "hM7IHNGQd",
-      "uuid": "a444575a-85cf-44f5-84ad-f32538fc7944",
-      "amount": 10000,
-      "description": "Money to Ted",
-      "receiverId": "uBmeaz5pX",
-      "senderId": "GjWovtg2hr",
-      "privacyLevel": "private",
-      "status": "complete",
-      "createdAt": "2025-03-03T21:28:10.309Z",
-      "modifiedAt": "2025-03-03T21:28:10.309Z"
-    },
-    {
-      "id": "ICmvnf0rV",
-      "uuid": "1dcb7684-6a6c-4b3a-9827-c5797210b342",
-      "amount": 10000,
-      "description": "Money to Kristian",
-      "receiverId": "GjWovtg2hr",
-      "senderId": "uBmeaz5pX",
-      "privacyLevel": "public",
-      "status": "complete",
-      "createdAt": "2025-03-03T21:36:52.512Z",
-      "modifiedAt": "2025-03-03T21:36:52.512Z"
     }
   ],
   "likes": [
@@ -10522,36 +10442,6 @@
       "isRead": false,
       "createdAt": "2024-02-01T18:53:45.699Z",
       "modifiedAt": "2024-03-07T17:13:52.110Z"
-    },
-    {
-      "id": "5_maYDJN6K",
-      "uuid": "ee0a45f5-0296-4326-9110-59ff4a80847a",
-      "userId": "GjWovtg2hr",
-      "transactionId": "NziwWFEtu",
-      "status": "received",
-      "isRead": false,
-      "createdAt": "2025-03-03T21:28:04.161Z",
-      "modifiedAt": "2025-03-03T21:28:04.161Z"
-    },
-    {
-      "id": "0IQM1prLjb",
-      "uuid": "8d893d44-dba8-40ee-83db-61db2a91b6a0",
-      "userId": "uBmeaz5pX",
-      "transactionId": "hM7IHNGQd",
-      "status": "received",
-      "isRead": false,
-      "createdAt": "2025-03-03T21:28:10.357Z",
-      "modifiedAt": "2025-03-03T21:28:10.357Z"
-    },
-    {
-      "id": "cCg8E-td-t",
-      "uuid": "2fdf3289-8cfe-4cf2-824c-0ea49551666f",
-      "userId": "GjWovtg2hr",
-      "transactionId": "ICmvnf0rV",
-      "status": "received",
-      "isRead": false,
-      "createdAt": "2025-03-03T21:36:52.552Z",
-      "modifiedAt": "2025-03-03T21:36:52.552Z"
     }
   ],
   "banktransfers": [

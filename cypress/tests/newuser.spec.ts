@@ -1,5 +1,5 @@
-describe("Real World App Tests", () => {
-  it("Creating New User", () => {
+describe("New User Success", () => {
+  it("Creating New User Successfuly", () => {
     cy.visit("http://localhost:3000/signin");
     cy.get("[href='/signup']").click();
     cy.get(".SignUpForm-paper");
@@ -18,7 +18,7 @@ describe("Real World App Tests", () => {
   
   });
 
-  it("Creating New User Unsuccessfuly", () => {
+  it("Creating New User with uncomplete information", () => {
     cy.visit("http://localhost:3000/signin");
     cy.get("[href='/signup']").click();
     cy.get('.SignUpForm-form');
