@@ -15,7 +15,7 @@ describe("Transferring money Successfuly", () => {
     successfullButton: '[data-test="alert-bar-success"]',
   }
 
-    it.only("Try to transfer money successfuly", () => {
+    it("Try to transfer money successfuly", () => {
       cy.visit("/signin");
 
       cy.get(selectorsList.usernameField).type("Arvilla_Hegmann");

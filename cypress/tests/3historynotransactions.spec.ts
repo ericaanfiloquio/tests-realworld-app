@@ -13,6 +13,7 @@ describe("View History Transactions of a user with no transactions made", () => 
     signUpButton: "[href='/signup']",
     signUpPage: ".SignUpForm-paper",
     transactionList: '[data-test="transaction-list"]',
+    createTransactionButton: '[data-test="transaction-list-empty-create-transaction-button"]',
 
   }
  
@@ -33,8 +34,14 @@ describe("View History Transactions of a user with no transactions made", () => 
     cy.get(selectorsList.submitButton).click();
     cy.get(selectorsList.mainPage);
     cy.get(selectorsList.myTransactions).click();
+    // cy.get('[data-test="user-onboarding-next"]').click();
+    // cy.get('#bankaccount-bankName-input').type('TestBank');
+    // cy.get('#bankaccount-routingNumber-input').type('123456789');
+    // cy.get('#bankaccount-accountNumber-input').type('987654321');
+    // Added this part recently because when opening the app, sometimes it is necessary to create a bank account.
     cy.get(selectorsList.transactionsPage).contains('No Transactions');
-    cy.get(selectorsList.transactionList);
+    cy.get(selectorsList.createTransactionButton);
+    
     
  // To make sure I would find a user with no transactions' history, I created a new user, logged in, checked the transaction page and made sure the sign "No Transactions" was shown. I was tested if a "Transaction List would appear", but it didn't, so test was successfull.
   });
