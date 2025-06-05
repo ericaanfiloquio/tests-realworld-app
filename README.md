@@ -1,3 +1,6 @@
+## To access MY TEST PLAN:
+Test Plan/README.md
+
 <p align="center">
   <!-- We use two SVGs here so that this displays correctly
     on Github. This might not look right in other Markdown previewers. -->

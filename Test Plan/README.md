@@ -1,0 +1,8 @@
+## Login Scenarios
+
+| Test Case ID | Feature | Test Description | Preconditions | Steps | Expected Results | Status | Severity | Notes |
+|---|-----|-------|-------|-------|-------|------|----|-----|
+| RWA 001.1 | Login Success | Log into the system using existing credentials (example app users) from the 'database-seed' file, which are already stored in the database. | User's credentials (username, passaword) have already been created and are on the database (back-end);
+The app is installed, the system is operatinga after following the steps of Real World App. | 1 - Log in with an existing credentials; email address and password: "username": "Heath93",       "password": "s3cret"<br>2 - Click the button to submit<br>3 - Validate the successful by identifying the log in page | Log in successfully, being able to access the user dashboard. | Passed | High | |
+| RWA 001.2 | Login Unsuccessful | Try to log in using non-existing credentials. Use a wrong username and see if the system shows some alert message. | User's credentials (username, passaword) have already been created and are on the database (back-end);
+The app is installed, the system is operating after following the steps of Real World App. | 1 - Log in with an existing credentials; email address and password: "username": "Romeu",  "password": "s3cret"<br>2 - Click the button to submit<br>3 - Validate the unsuccessful log in by identifying the wrong credential alert (message) | Verify an alert message when trying to log in with non existent credentials on database. User should not be able to log in using wrong/non existing credentials. | Passed | High | | 
